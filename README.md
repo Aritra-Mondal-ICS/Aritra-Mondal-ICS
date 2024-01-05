@@ -8,7 +8,7 @@
 <h3 align="center">ICS | Fullstack Developer | Red Teaming Expert | Penetration Tester | GDSC Fullstack Lead 24'</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra-mondal-ics&label=Profile%20views&color=0e75b6&style=flat" alt="aritra-mondal-ics" /> </p>
+
 
 - 🧑‍🎓Currently an H.S.(Higher Secondary) student at[ BIGMHS](https://www.barasat.igmhs.org/)
 
