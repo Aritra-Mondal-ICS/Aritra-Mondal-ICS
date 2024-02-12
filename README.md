@@ -21,11 +21,11 @@
 
 - 🤝 I’m looking to get in touch with other **Developers to learn new things**.
 
-- 🌐 All of my latest projects are availabe here [www.mrdecoder.in](www.mrdecoder.in)
+- 🌐 All of my latest projects are availabe here [www.innovatechsolution.in](www.innovatechsolution.in)
 
 - 💬 Ask me about **web development, pen testing,etc.** and I will try to answer it.
 
-- 📫 How to reach me **aritra.cso@linuxmail.org**
+- 📫 How to reach me **aritra.ics@indiancybersquad.in**
 
 - ⚡ Fact **The first computer programmer was a woman named Ada Lovelace.**
 
