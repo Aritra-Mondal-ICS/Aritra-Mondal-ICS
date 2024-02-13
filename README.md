@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aritra+Mondal!;" />
 </h1>
 
-<h3 align="center">An OT Cyber security speciallist by profession and a programmer by passion</h3>
+<h3 align="center">Game Designer by profession and a programmer by passion</h3>
 
 <h3 align="center">ICS | Fullstack Developer | Red Teaming Expert | Penetration Tester | GDSC Fullstack Lead 24'</h3>
 <h1 align="center">
