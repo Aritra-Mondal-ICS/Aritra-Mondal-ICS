@@ -13,7 +13,7 @@
 
 
 
-- 🧑‍🎓Currently an H.S.(Higher Secondary) student at[ BIGMHS](https://www.barasat.igmhs.org/)
+- 🧑‍🎓Currently an H.S.(Higher Secondary) student at[ BIGMHS](https://barasat.igmhs.org/)
 
 - 🌱 I’m currently learning **Bug Bounty with React native**
 
