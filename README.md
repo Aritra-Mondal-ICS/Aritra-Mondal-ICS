@@ -5,7 +5,7 @@
 
 <h3 align="center">Game Designer by profession and a programmer by passion</h3>
 
-<h3 align="center">ICS | Fullstack Developer | Red Teaming Expert | Penetration Tester | GDSC Fullstack Lead 24'</h3>
+<h3 align="center">ICS Director | Fullstack Developer | Red Teaming Expert | Penetration Tester | GDSC Fullstack Lead 24'</h3>
 <h1 align="center">
     <hr height=200></hr>
 </h1>
