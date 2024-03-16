@@ -17,11 +17,13 @@
 
 - 🌱 I’m currently learning **Bug Bounty with React native**
 
-- 🧑‍💻Working as **Freelance Developer**
+- 🧑‍💻 Working as **Freelance Developer**
+
+- 🏢 Founder & CEO @[Indian Cyber Squad](www.indiancybersquad.in).
 
 - 🤝 I’m looking to get in touch with other **Developers to learn new things**.
 
-- 🌐 All of my latest projects are availabe here [www.innovatechsolution.in](www.innovatechsolution.in)
+- 🌐 All of my latest projects are availabe [here](www.innovatechsolution.in)
 
 - 💬 Ask me about **web development, pen testing,etc.** and I will try to answer it.
 
