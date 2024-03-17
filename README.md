@@ -19,7 +19,7 @@
 
 - 🧑‍💻 Working as **Freelance Developer**
 
-- 🏢 Founder & CEO @[Indian Cyber Squad](www.indiancybersquad.in).
+- 🏢 Founder & CEO @ [Indian Cyber Squad](www.indiancybersquad.in).
 
 - 🤝 I’m looking to get in touch with other **Developers to learn new things**.
 
